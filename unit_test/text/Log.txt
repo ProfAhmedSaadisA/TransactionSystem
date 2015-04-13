@@ -1,0 +1,227 @@
+
+Logging:Mon Apr 13 10:04:27 2015
+
+Constructing Server...
+
+Initializing Server...
+
+Initializing Accounts...
+
+Account#0. Balance: 100
+Account#1. Balance: 100
+Account#2. Balance: 100
+Account#3. Balance: 100
+Account#4. Balance: 100
+Account#5. Balance: 100
+Account#6. Balance: 100
+Account#7. Balance: 100
+Account#8. Balance: 100
+Account#9. Balance: 100
+Initializing Mutexes...
+
+Initializing Transactions...
+
+Performing  transaction for Account#3 with amount: 929
+Performing  transaction for Account#0 with amount: 791
+Performing  transaction for Account#7 with amount: 351
+Performing  transaction for Account#8 with amount: 969
+Performing  transaction for Account#4 with amount: 951
+Performing  transaction for Account#4 with amount: 596
+Performing  transaction for Account#8 with amount: 298
+Performing  transaction for Account#1 with amount: 478
+Performing  transaction for Account#2 with amount: 971
+Performing  transaction for Account#1 with amount: 344
+Performing  transaction for Account#1 with amount: 869
+Performing  transaction for Account#5 with amount: 841
+Performing  transaction for Account#0 with amount: 679
+Performing  transaction for Account#2 with amount: 369
+Performing  transaction for Account#7 with amount: 263
+Performing  transaction for Account#9 with amount: 389
+Performing  transaction for Account#2 with amount: 288
+Performing  transaction for Account#0 with amount: 579
+Performing  transaction for Account#9 with amount: 64
+Performing  transaction for Account#9 with amount: 45
+Performing  transaction for Account#7 with amount: 606
+Performing  transaction for Account#3 with amount: 513
+Performing  transaction for Account#4 with amount: 433
+Performing  transaction for Account#7 with amount: 697
+Performing  transaction for Account#9 with amount: 756
+Performing  transaction for Account#6 with amount: 186
+Performing  transaction for Account#0 with amount: 830
+Performing  transaction for Account#4 with amount: 612
+Performing  transaction for Account#9 with amount: 792
+Performing  transaction for Account#5 with amount: 973
+Performing  transaction for Account#7 with amount: 0
+Performing  transaction for Account#0 with amount: 156
+Performing  transaction for Account#5 with amount: 230
+Performing  transaction for Account#9 with amount: 927
+Performing  transaction for Account#3 with amount: 568
+Performing  transaction for Account#2 with amount: 105
+Performing  transaction for Account#0 with amount: 837
+Performing  transaction for Account#9 with amount: 712
+Performing  transaction for Account#9 with amount: 911
+Performing  transaction for Account#5 with amount: 406
+Performing  transaction for Account#6 with amount: 245
+Performing  transaction for Account#5 with amount: 945
+Performing  transaction for Account#7 with amount: 701
+Performing  transaction for Account#4 with amount: 542
+Performing  transaction for Account#8 with amount: 487
+Performing  transaction for Account#0 with amount: 799
+Performing  transaction for Account#1 with amount: 572
+Performing  transaction for Account#3 with amount: 93
+Performing  transaction for Account#8 with amount: 294
+Performing  transaction for Account#7 with amount: 239
+Performing  transaction for Account#9 with amount: 325
+Performing  transaction for Account#6 with amount: 510
+Performing  transaction for Account#8 with amount: 659
+Performing  transaction for Account#1 with amount: 853
+Performing  transaction for Account#6 with amount: 493
+Performing  transaction for Account#7 with amount: 983
+Performing  transaction for Account#7 with amount: 566
+Performing  transaction for Account#2 with amount: 720
+Performing  transaction for Account#2 with amount: 408
+Performing  transaction for Account#2 with amount: 776
+Performing  transaction for Account#1 with amount: 147
+Performing  transaction for Account#4 with amount: 875
+Performing  transaction for Account#5 with amount: 764
+Performing  transaction for Account#9 with amount: 747
+Performing  transaction for Account#6 with amount: 753
+Performing  transaction for Account#0 with amount: 702
+Performing  transaction for Account#5 with amount: 699
+Performing  transaction for Account#5 with amount: 582
+Performing  transaction for Account#7 with amount: 766
+Performing  transaction for Account#4 with amount: 458
+Performing  transaction for Account#9 with amount: 769
+Performing  transaction for Account#0 with amount: 296
+Performing  transaction for Account#4 with amount: 631
+Performing  transaction for Account#6 with amount: 533
+Performing  transaction for Account#2 with amount: 839
+Performing  transaction for Account#2 with amount: 741
+Performing  transaction for Account#5 with amount: 38
+Performing  transaction for Account#6 with amount: 303
+Performing  transaction for Account#6 with amount: 333
+Performing  transaction for Account#8 with amount: 717
+Sorry! No enough balance to complete the debit transaction for Account#0 with amount: 791
+Sorry! No enough balance to complete the debit transaction for Account#8 with amount: 969
+Sorry! No enough balance to complete the debit transaction for Account#1 with amount: 478
+Sorry! No enough balance to complete the debit transaction for Account#2 with amount: 971
+Sorry! No enough balance to complete the debit transaction for Account#5 with amount: 841
+Sorry! No enough balance to complete the debit transaction for Account#7 with amount: 606
+Sorry! No enough balance to complete the debit transaction for Account#7 with amount: 697
+Sorry! No enough balance to complete the debit transaction for Account#9 with amount: 756
+Sorry! No enough balance to complete the debit transaction for Account#5 with amount: 973
+Sorry! No enough balance to complete the debit transaction for Account#5 with amount: 230
+Sorry! No enough balance to complete the debit transaction for Account#7 with amount: 701
+Sorry! No enough balance to complete the debit transaction for Account#8 with amount: 487
+Sorry! No enough balance to complete the debit transaction for Account#7 with amount: 983
+Sorry! No enough balance to complete the debit transaction for Account#7 with amount: 566
+Sorry! No enough balance to complete the debit transaction for Account#5 with amount: 699
+
+Destroying Mutexes...
+
+Accounts Summary:
+
+Account #0: 2982
+Account #1: 1741
+Account #2: 2794
+Account #3: 991
+Account #4: 3936
+Account #5: 143
+Account #6: 930
+Account #7: 1193
+Account #8: 2068
+Account #9: 347
+
+Logging:Mon Apr 13 10:04:27 2015
+
+Constructing Server...
+
+Initializing Server...
+
+Performing  transaction for Account#0 with amount: 8173
+
+Destroying Mutexes...
+
+Accounts Summary:
+
+Account #0: 11155
+Account #1: 1741
+Account #2: 2794
+Account #3: 991
+Account #4: 3936
+Account #5: 143
+Account #6: 930
+Account #7: 1193
+Account #8: 2068
+Account #9: 347
+
+Logging:Mon Apr 13 10:04:27 2015
+
+Constructing Server...
+
+Initializing Server...
+
+Performing  transaction for Account#9 with amount: 2994
+Performing  transaction for Account#0 with amount: 1791
+
+Destroying Mutexes...
+
+Accounts Summary:
+
+Account #0: 12946
+Account #1: 1741
+Account #2: 2794
+Account #3: 991
+Account #4: 3936
+Account #5: 143
+Account #6: 930
+Account #7: 1193
+Account #8: 2068
+Account #9: 3341
+
+Logging:Mon Apr 13 10:04:27 2015
+
+Constructing Server...
+
+Initializing Server...
+
+Performing  transaction for Account#5 with amount: 142
+
+Destroying Mutexes...
+
+Accounts Summary:
+
+Account #0: 12946
+Account #1: 1741
+Account #2: 2794
+Account #3: 991
+Account #4: 3936
+Account #5: 1
+Account #6: 930
+Account #7: 1193
+Account #8: 2068
+Account #9: 3341
+
+Logging:Mon Apr 13 10:04:27 2015
+
+Constructing Server...
+
+Initializing Server...
+
+Performing  transaction for Account#7 with amount: 1194
+Sorry! No enough balance to complete the debit transaction for Account#7 with amount: 1194
+
+Destroying Mutexes...
+
+Accounts Summary:
+
+Account #0: 12946
+Account #1: 1741
+Account #2: 2794
+Account #3: 991
+Account #4: 3936
+Account #5: 1
+Account #6: 930
+Account #7: 1193
+Account #8: 2068
+Account #9: 3341
